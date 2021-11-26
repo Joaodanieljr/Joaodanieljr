@@ -9,23 +9,33 @@
 
 - 🧑 Paulista, entusiasta de tecnologia e atualmente trabalhando como desenvolvedor de sistemas.
 - 🎓 Formado em desenvolvimento de sistemas pela Fiap em 2020. Tambem me formei em Engenharia Eletrica pelo Mackenzie em 2016.
-- 📚 Estou dedicando meu tempo estudando e criando Apps ios. Pretendo colocar aqui no github todo o estudo e projetos pessoais que estou focado. Meu foco esta em swift, viewCode, cocoapods, CI/CD, UIKit, swiftUi, MVVM, MVC, Clean, SOLID, git e testes unitários.
-- 🤓 No momento atuo como Full Stack trabalhando com tecnologias como Python, Java e React em projetos de grande escala no setor financeiro, mas pretendo focar minha careira em desenvolvimento mobile(ios).
+- 📚 Estou dedicando meu tempo estudando Java e Python aplicados ao Backend e conhecendo um pouco de React. Pretendo colocar aqui no github todo o estudo e projetos pessoais que estou focado.
+- 🤓 No momento atuo como Full Stack trabalhando com tecnologias como Java, Python e React em projetos de grande escala no setor financeiro.
 
 
-### Linguagens: 
+#### As tecnologias mais usadas por aqui:
 
-<img src="https://camo.githubusercontent.com/d921e24275038cf3c8c0a2dfe5e154444df04065b3ad9ac96e4e2fb39dfc00e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53776966742d3936346230393f266c6f676f3d7377696674"/></a>
-
-
-##### Tecnologias que utilizo:
-
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/></a>
 
 
-![joaodanieljr GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodanieljr&show_icons=true&theme=merko)
+
+#### Linguagens: 
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/></a>
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodanieljr&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+
+
 </p>
 </p>  
 
