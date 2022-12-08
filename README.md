@@ -11,7 +11,7 @@
 
 :books: Formado em desenvolvimento de sistemas pela Fiap em 2020. Tambem me formei em Engenharia Eletrica pelo Mackenzie em 2016.
 
-:clock1: No momento atuo com o Backend, trabalhando com tecnologias como Java(Spring, Junit, Mysql ...) e Python(Flask, Oracle-Sql, Swagger ...) em projetos de grande escala no setor financeiro, e tenho focado meu tempo livre em alguns projetos que estou colocando por aqui.
+:clock1: No momento atuo com o Backend, trabalhando com tecnologias como Java(Spring, Junit, Mysql ...) e Kotlin em projetos de grande escala no setor financeiro, e tenho focado meu tempo livre em alguns projetos que estou colocando por aqui.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodanieljr&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
