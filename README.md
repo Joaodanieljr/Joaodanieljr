@@ -9,7 +9,7 @@
 
 :sunglasses:  Paulista, entusiasta de tecnologia e atualmente trabalhando como desenvolvedor de sistemas.
 
-:books: Formado em Engenharia Eletrica pelo Mackenzie em 2016 e em desenvolvimento de sistemas pela Fiap em 2020, atualmente cursando pós graduação em Data Science e AI pela Fiap (formação em 2026)
+:books: Formado em Engenharia Eletrica pelo Mackenzie em 2016 e em desenvolvimento de sistemas pela Fiap em 2020, atualmente cursando pós graduação em Data Science e IA pela Fiap (formação em 2026)
 
 :clock1: No momento atuo com o Backend, trabalhando com Java e Kotlin em projetos de grande escala no setor financeiro e tenho focado meu tempo livre em alguns projetos de IA e Data Science, assuntos que curto muito.
 </p>
